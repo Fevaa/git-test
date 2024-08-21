@@ -1,2 +1,6 @@
+Print("Hello world";)
+Print("now. Hi everybody";)
+Print("hello friend";)
+Print("Hello my horse";)
 Print("Hello world;")
 Print("now. Hi everybody;")
